@@ -59,4 +59,4 @@ Kode di atas terdiri dari 6 element yang mana element pertama bernama h1, kedua 
   Ini adalah element paragraph, yang di dalamnya ada tulisan dengan <b>cetak tebal</b> dan <i>cetak miring</i>. 
 </p>
 
-untuk syntax yang lainnya teman-teman akakn pelajari <a href="">disini</a>. 
+untuk syntax yang lainnya teman-teman akakn pelajari <a href="https://akunkosong.github.io/kelas10/latihan1/">disini</a>. 
