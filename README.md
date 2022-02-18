@@ -50,7 +50,7 @@ Kode di atas terdiri dari 6 element yang mana element pertama bernama h1, kedua 
 **Perhatikan Kode Berikut**
 ```
 <p>
-  Ini adalah element paragraph, yang di dalamnya ada tulisan dengan <b>cetak tebal</b> dan <i>cetak miring</i> dan <u>bergaris bawah</u>. 
+  Ini adalah element paragraph, yang di dalamnya ada tulisan dengan <b>cetak tebal</b> dan <i>cetak miring</i>. 
 </p>
 ```
 
