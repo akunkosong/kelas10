@@ -21,6 +21,7 @@ section .info{
     color:#fff;
     padding:50px;
     box-shadow: 0 0 4px rgba(0,0,0,0.5);
+    width:75%;
 }
 section .info:hover{
     width:75%;
@@ -28,4 +29,5 @@ section .info:hover{
     transition: all .5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     color:#000;
     border-radius:10px;
+    color:yellow;
 }
